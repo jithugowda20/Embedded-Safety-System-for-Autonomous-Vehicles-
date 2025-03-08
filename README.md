@@ -1,2 +1,1 @@
-# Embedded-Safety-System-for-Autonomous-Vehicles-
-ADAS
+# object-detection
